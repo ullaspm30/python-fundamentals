@@ -1,0 +1,3 @@
+Name: Learner
+Goal: Become AI Systems Engineer
+Location: Bangalore
